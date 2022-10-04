@@ -23,10 +23,15 @@ Console.WriteLine("The length of CA is: {0}", CA);
 
 if (AB == BC && BC == CA)
     Console.WriteLine("It is the equilateral triangle");
+else Console.WriteLine("Triangle is not equilateral");
+
 if (AB == BC || BC == CA || CA == AB)
     Console.WriteLine("It is the isosceles triangle");
+else Console.WriteLine("Triangle is not isosceles");
+
 if ((Math.Pow(AB, 2) + Math.Pow(CA, 2)) == Math.Pow(BC, 2))
     Console.WriteLine("It is the right triangle");
+else Console.WriteLine("Triangle is not right");
 
 double PerimeterOfTriangle = AB + BC + CA; 
 Console.WriteLine("Perimeter of triangle is:{0}", PerimeterOfTriangle);
