@@ -1,0 +1,15 @@
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/bin/Debug/net6.0/Console_test
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/bin/Debug/net6.0/Console_test.deps.json
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/bin/Debug/net6.0/Console_test.runtimeconfig.json
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/bin/Debug/net6.0/Console_test.dll
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/bin/Debug/net6.0/Console_test.pdb
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.csproj.AssemblyReference.cache
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.AssemblyInfoInputs.cache
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.AssemblyInfo.cs
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.csproj.CoreCompileInputs.cache
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.dll
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/refint/Console_test.dll
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.pdb
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/Console_test.genruntimeconfig.cache
+/Users/viktoriastepanenko/Projects/Console_test/Console_test/obj/Debug/net6.0/ref/Console_test.dll
